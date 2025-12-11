@@ -1,6 +1,6 @@
 # Aethel.Assets
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/AethelGame/Aethel.Assets)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/AethelGame/Aethel.assets.svg?style=social&label=Star)](https://github.com/AethelGame/Aethel.Assets)
 
 > [!NOTE]
